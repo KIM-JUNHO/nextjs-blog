@@ -12,6 +12,7 @@ export default function FirstPost() {
       <h1>First Post</h1>
       <Alert type="success">success</Alert>
       <Alert type="error">error</Alert>
+      <div className="bg-blue-400">tailwindcss</div>
       <h2>
         <Link href="/">
           <a>Back to home</a>
